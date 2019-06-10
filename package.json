@@ -22,5 +22,9 @@
     "vue-loader": "^15.7.0",
     "vue-template-compiler": "^2.6.10",
     "webpack": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zimogod/shouComponent.git"
   }
 }
