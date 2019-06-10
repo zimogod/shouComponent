@@ -1,0 +1,26 @@
+{
+  "name": "tishizujian",
+  "version": "1.0.0",
+  "description": "A toast Compoent",
+  "private":"false",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "toast",
+    "tishizujian"
+  ],
+  "author": "zimogod",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^8.0.6"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "vue-loader": "^15.7.0",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.1.0"
+  }
+}
